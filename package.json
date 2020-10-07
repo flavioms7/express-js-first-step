@@ -1,0 +1,29 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "description": "Express JS First Step",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "g": "^2.0.1",
+    "joi": "^13.1.0",
+    "nodemon": "^2.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flavioms7/express-js-first-step.git"
+  },
+  "keywords": [
+    "expressjs"
+  ],
+  "author": "Flavio Miranda da Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flavioms7/express-js-first-step/issues"
+  },
+  "homepage": "https://github.com/flavioms7/express-js-first-step#readme"
+}
